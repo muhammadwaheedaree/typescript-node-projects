@@ -1,3 +1,15 @@
-"Simple todo app built with TypeScript and Inquirer."
-"Features include adding, completing, and deleting tasks."
-"CLI-based interface for easy task management."
+# Todo App
+
+A TypeScript and Inquirer-based todo app.
+
+## Features
+
+- Add, complete, and delete tasks.
+
+## Usage
+
+Run with:
+
+```bash
+npx ts-node src/index.ts
+```

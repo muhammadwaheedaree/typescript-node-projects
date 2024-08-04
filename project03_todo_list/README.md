@@ -11,5 +11,5 @@ A TypeScript and Inquirer-based todo app.
 Run with:
 
 ```bash
-npx ts-node src/index.ts
+npx aree-todo-app-mw
 ```

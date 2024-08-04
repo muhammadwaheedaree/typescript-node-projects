@@ -1,6 +1,6 @@
-# TypeScript Calculator
+# Simple Calculator in Typescript
 
-A calculator with a CLI using Inquirer.
+A simple calculator using Inquirer for CLI.
 
 ## Usage
 

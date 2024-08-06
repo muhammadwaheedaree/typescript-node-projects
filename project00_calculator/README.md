@@ -7,5 +7,5 @@ A simple calculator using Inquirer for CLI.
 Run with:
 
 ```bash
-npx  mw-simple-calculator
+npx  easy-calc-cli
 ```

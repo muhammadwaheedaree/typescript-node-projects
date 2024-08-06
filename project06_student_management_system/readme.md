@@ -5,5 +5,5 @@ A console-based TypeScript project demonstrating OOP concepts: add students, gen
 ## Usage
 
 ```bash
-npx project06_student_management_system_128
+npx student-manager-cli
 ```
